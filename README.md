@@ -7,7 +7,7 @@ CAMDEN POLICE ANALYSIS - SQL QUERIES
 Dataset: The Stanford Open Policing Project
 File: nj_candem_2020_04_01.csv
 Analysis: Which vehicles are most prone to being stopped?
-Special Mention: Special mention: E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, 
+Special Mention: E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, 
 V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff, and S. Goel. “A large-scale analysis of racial disparities 
 in police stops across the United States”. 
 Nature Human Behaviour, Vol. 4, 2020.
