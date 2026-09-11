@@ -1,6 +1,6 @@
 # camden_police_analysis-
 Exploratory SQL analysis of Camden, NJ police stop data; identifies patterns in stop frequency, officer dispatch, and demographic distributions using public datasets
-/*
+
 ================================================================================
 CAMDEN POLICE ANALYSIS - SQL QUERIES
 ================================================================================
